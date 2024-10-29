@@ -1,0 +1,13 @@
+﻿  delete.cpp
+C:\Users\User\source\repos\Список дел1\delete.cpp(7,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  find.cpp
+  intput.cpp
+  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\format(42): warning STL4038: The contents of <format> are available only with C++20 or later.
+  sort.cpp
+C:\Users\User\source\repos\Список дел1\sort.cpp(13,20): error C2429: для функция языка "структурированные привязки" нужен флаг компилятора "/std:c++17" 
+C:\Users\User\source\repos\Список дел1\sort.cpp(15,3): error C2593: неоднозначный "оператор <<"
+C:\Users\User\source\repos\Список дел1\sort.cpp(29,20): error C2429: для функция языка "структурированные привязки" нужен флаг компилятора "/std:c++17" 
+C:\Users\User\source\repos\Список дел1\sort.cpp(31,3): error C2593: неоднозначный "оператор <<"
+  struct.cpp
+  Создание кода...
